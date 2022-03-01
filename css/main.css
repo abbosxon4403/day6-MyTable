@@ -1,0 +1,45 @@
+caption {
+    padding: 12px 30px;
+    border: 4px solid #dddddd;
+    font-weight: 600;
+    font-size: 24px;
+    color: #eeeeee;
+    background-color: #76a713;
+    cursor: default;
+}
+
+table {
+    border: 1px solid #000000;
+    border-collapse: collapse;
+    margin: 100px auto;
+}
+
+th {
+    text-align: center;
+    border: 1px solid #000000;
+    cursor: default;
+}
+
+td {
+    border: 1px solid #000000;
+    text-align: center;
+}
+
+tr {
+    border: 1px solid #000000;
+}
+
+tbody {
+    border: 1px solid #000000;
+}
+
+.td1 {
+    font-size: 22px;
+    font-weight: 900;
+    color: #76a713;
+}
+
+td,
+th {
+    padding: 15px 35px;
+}
